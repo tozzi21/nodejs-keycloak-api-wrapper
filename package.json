@@ -1,0 +1,8 @@
+{
+  "name": "keycloak-api-lib",
+  "version": "1.0.0",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
